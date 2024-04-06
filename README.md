@@ -37,8 +37,13 @@ Plan A                                https: //t .co/sPSYaEKtpL
 
  FCGame - FC/NES模拟器
  
-  FC/NES模拟器，在线畅玩八十款任天堂红白机游戏， 游戏机其乐无穷。支持魂斗罗/超级 马 丽/双截龙等等几十款 红白机游戏 
+  FC/NES模拟器，在线畅玩八十款 任 天 堂 红白机游戏， 小 霸 王 游戏机 乐 在 其 中
+  
+  支持魂 斗 罗/超级 马 丽/双 龙 等等几十款 红白机游戏 
+  
  非常适合在手机/电脑上在线 ，近乎完美的还原 FC/NES原版ROM游戏的视频和声音。
+ 
+ nintendo minion
  
 FC/NES emulator, you can play 80 NES games online, and you will have endless fun with the game console. Supports dozens of NES games such as Contra/Super Mario/Double Dragon
  It is very suitable for online use on mobile phones/computers, and almost perfectly restores the video and sound of FC/NES original ROM games.
@@ -95,7 +100,7 @@ FC simulator web page renderings A web online FC game implemented through second
 |   | 超级马里奥1 (W) Super Mario Bros. [!] | roms/(W) Super Mario Bros. [!].nes | 
 
 
-|   | 魂斗罗1 (U) 30S [!] | roms/Contra1(U)30S.nes | 
+|   | 魂 斗 罗1 (U) 30S [!] | roms/Contra1(U)30S.nes | 
 
 |   | 赤影战士 Kage [!] | roms/Kage.nes | 
 
@@ -134,16 +139,17 @@ FC simulator web page renderings A web online FC game implemented through second
 |   | 马里奥拆屋工 (W) Wrecking Crew | roms/(W) Wrecking Crew [!].nes | 
 |   | 马里奥医生 (JU) Dr. Mario | roms/Dr. Mario (JU).nes | 
  
-| 魂斗罗 | - | - |
-|   | 魂斗罗1 (U) 30S [!] | roms/Contra1(U)30S.nes | 
-|   | 魂斗罗1 (U) 30 | roms/Contra1(U)30.nes | 
-|   | 魂斗罗1 (U) 30F | roms/Contra1(U)30F.nes | 
-|   | 魂斗罗1 (U) 30L | roms/Contra1(U)30L.nes | 
-|   | 魂斗罗1 (U) 30M | roms/Contra1(U)30M.nes | 
-|   | 魂斗罗1 (U) S [!] | roms/Contra1(U)S.nes | 
-|   | 魂斗罗1 (U) F | roms/Contra1(U)F.nes | 
-|   | 魂斗罗1 (U) L | roms/Contra1(U)L.nes | 
-|   | 魂斗罗1 (U) M | roms/Contra1(U)M.nes | 
+| 魂 斗 罗 | - | - |
+
+|   | 魂 斗 罗1 (U) 30S [!] | roms/Contra1(U)30S.nes | 
+|   | 魂 斗 罗1 (U) 30 | roms/Contra1(U)30.nes | 
+|   | 魂 斗 罗1 (U) 30F | roms/Contra1(U)30F.nes | 
+|   | 魂 斗 罗1 (U) 30L | roms/Contra1(U)30L.nes | 
+|   | 魂 斗 罗1 (U) 30M | roms/Contra1(U)30M.nes | 
+|   | 魂 斗 罗1 (U) S [!] | roms/Contra1(U)S.nes | 
+|   | 魂 斗 罗1 (U) F | roms/Contra1(U)F.nes | 
+|   | 魂 斗 罗1 (U) L | roms/Contra1(U)L.nes | 
+|   | 魂 斗 罗1 (U) M | roms/Contra1(U)M.nes | 
 
 | 双 龙 | - | - |
 |   | 双 龙2 Double Dragon2 [!] | roms/Double Dragon2.nes | 
