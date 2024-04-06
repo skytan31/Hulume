@@ -9,7 +9,7 @@ Hulume bring new horizon
 🔥🔥
 
 
-Hulume onSol chain crowd is open
+Hulume on Solana chain crowd is open
 
 Hulume
 Crowd address:
