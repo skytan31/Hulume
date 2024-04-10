@@ -25,8 +25,8 @@ HULUME Donate ADDress on Solana ：Awd4mbXEigFcKWkYRczvdGLoJBYUihxB7ZzTLgzrVg59
 
 
 
-
-HULUME cord Group                     https: //t .co/3jEc2ZtFg6
+Bubble
+  HULUME cord Group                     https: //t .co/3jEc2ZtFg6
 
 Plan A                                https: //t .co/sPSYaEKtpL
 
